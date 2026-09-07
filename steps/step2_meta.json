@@ -1,0 +1,22 @@
+{
+  "step": 2,
+  "prompt": "Add gravity and jumping",
+  "model": "Ornith-1.0-9B-MTP-IQ3_M.gguf",
+  "temperature": 0.7,
+  "max_tokens": 100000,
+  "finish_reason": "stop",
+  "prompt_tokens": 5365,
+  "completion_tokens": 5720,
+  "speed_tok_s": 9.0,
+  "time_s": 632.1,
+  "thinking_chars": 1491,
+  "answer_chars": 20078,
+  "has_html": true,
+  "has_gravity": true,
+  "has_jump": true,
+  "has_arrow_keys": true,
+  "has_keydown": true,
+  "has_requestAnimationFrame": true,
+  "has_space": true,
+  "timestamp": "2026-09-07 09:52:55"
+}

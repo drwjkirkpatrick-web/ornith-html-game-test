@@ -1,0 +1,19 @@
+{
+  "step": 1,
+  "prompt": "Create an HTML5 canvas with a player sprite that moves with arrow keys",
+  "model": "Ornith-1.0-9B-MTP-IQ3_M.gguf",
+  "temperature": 0.7,
+  "max_tokens": 100000,
+  "finish_reason": "stop",
+  "prompt_tokens": 66,
+  "completion_tokens": 5445,
+  "speed_tok_s": 9.5,
+  "time_s": 571.5,
+  "thinking_chars": 795,
+  "answer_chars": 19504,
+  "has_html": true,
+  "has_arrow_keys": true,
+  "has_keydown": true,
+  "has_requestAnimationFrame": true,
+  "timestamp": "2026-09-07 09:39:30"
+}
